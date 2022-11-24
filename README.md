@@ -1,4 +1,7 @@
-## Oi eu sou Caio Vinicius atualmente estudando programação para me tornar um Fullstack!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Caio+Vinicius;I'm+25+years+old;I'm+from+Brazil;I+will+be+Fullstack;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+##
+
 <div align="center">
   <a href="https://github.com/Caiovcb">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Caiovcb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -35,4 +38,11 @@
  
   ![Snake animation](https://github.com/Caiovcb/CaioVinicius/blob/output/github-contribution-grid-snake.svg)
  
+##
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Caiovcb}/count.svg" /></p> 
+<br>
+</div>
 </div>
